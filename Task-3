@@ -1,0 +1,8 @@
+1) Take username from user and Create a new user with the entered username. 
+2) Create a directory named /home/[username]/scripts.
+3) Inside this directory, create a file named example.txt
+4) Set the permissions of example.txt to be read, write, and execute for the owner, and no permissions for others.
+5) Prompt the user to enter five file names.
+6) Check if a file with that name already exists in the user's home directory.
+7) If the file exists, display a message indicating that the file already exists. 
+8) If the file does not exist, create an empty file with that name. 
