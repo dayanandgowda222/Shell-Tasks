@@ -1,0 +1,6 @@
+1) ask user age.
+2) if it is less than 18 print you are a minor. 
+3) if it is greater than 18 print you can cast vote.
+4) if it is greater than 21 print you can marry.
+5) if it is greater than  60 print you are senior citizen.
+6) and also check if user is giving invalid values such as 0 or negative values or null or string, ask for valid input.
